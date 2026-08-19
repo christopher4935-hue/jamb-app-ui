@@ -18,7 +18,7 @@ import {
   Compass,
 } from "lucide-react";
 
-const API_BASE = "http://localhost:5000";
+const API_BASE = "https://jamb-app-backend.onrender.com";
 
 // How many questions per subject in a practice session. Real JAMB is 40 per
 // subject (60 for English) - this is kept small because the mock question
